@@ -1,5 +1,9 @@
 /*
 
+## Aggregate Your Friends and Code some SQL
+
+Put together the following:
+
 5. What is the total weekly payroll for production and nonsupervisory employees across all industries in January 2017? Round to the nearest penny.
 
 */

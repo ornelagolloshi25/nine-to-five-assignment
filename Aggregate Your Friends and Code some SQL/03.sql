@@ -1,5 +1,9 @@
 /*
 
+## Aggregate Your Friends and Code some SQL
+
+Put together the following:
+
 3. How many production/nonsupervisory employees were reported in 2016? Round to the nearest whole number. 
 
 */

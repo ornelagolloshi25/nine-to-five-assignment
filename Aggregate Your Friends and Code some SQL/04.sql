@@ -1,4 +1,7 @@
 /*
+## Aggregate Your Friends and Code some SQL
+
+Put together the following:
 
 4. In January 2017, what is the average weekly hours worked by production and nonsupervisory employees across all industries?
 

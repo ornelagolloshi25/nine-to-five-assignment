@@ -1,5 +1,9 @@
 /*
 
+## Aggregate Your Friends and Code some SQL
+
+Put together the following:
+
 6. In January 2017, for which industry was the average weekly hours worked by production and nonsupervisory employees the highest? Which industry was the lowest?
 
 */
