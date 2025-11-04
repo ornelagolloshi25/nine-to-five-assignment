@@ -1,4 +1,8 @@
 /*
+## Aggregate Your Friends and Code some SQL
+
+Put together the following:
+
 2. How many women employees were reported in 2016 in all industries? Round to the nearest whole number. 
 */
 --
